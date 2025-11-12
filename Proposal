@@ -1,0 +1,28 @@
+SmartBill is a web-based billing and expense management application designed for freelancers, small business owners, and independent contractors who need a simple yet intelligent way to manage their finances. The app solves the problem of disorganized billing and inconsistent tracking by automating invoice generation, payment reminders, and expense summaries.
+
+Target Users:
+Freelancers and small business owners who manage multiple clients and transactions, and need reliable expense tracking with minimal manual input.
+
+Core Features:
+
+AI-assisted invoice creation and expense categorization
+
+Secure user authentication and dashboard
+
+Payment reminder notifications
+
+Analytics for monthly income and expenses
+
+Technology Stack:
+
+Frontend: React.js with TailwindCSS
+
+Backend: Node.js + Express
+
+Database: MongoDB Atlas
+
+Deployment: Docker + GitHub Actions + Render (or AWS)
+
+AI Integration: OpenAI API for categorizing expenses and summarizing financial insights
+
+SmartBill aims to streamline financial management while giving users intelligent insights into their business health — all in one intuitive dashboard.
